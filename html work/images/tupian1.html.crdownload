@@ -1,0 +1,945 @@
+﻿<!DOCTYPE html>
+
+<html class="hb-loaded">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>恩施有什么好玩的？玩几天合适？想去神农架、地心谷、清江画廊，怎么安排比较合理？</title>
+    
+    <link href="/templates/p_ldy09/css/css.css" rel="stylesheet" />
+    <link href="/templates/p_ldy09/css/jquery.page.css" rel="stylesheet" />
+    <link href="/templates/p_ldy09/css/pageSwitch.min.css" rel="stylesheet" />
+
+    <script src="/templates/js/jquery-1.11.2.min.js"></script>
+<script src="/templates/js/jquery.cookie.js"></script>
+    
+<!--ajax-->
+    <script type="text/javascript">
+    var kefu_data = "";
+    var _kf_id = 0;
+    $(function () {
+        var hash_kf_id = window.location.hash;
+        if(JmwInitJson.model_lx_lock_share_wx=="1")
+        {
+            if (hash_kf_id != '') {
+                hash_kf_id = hash_kf_id.replace("#", "");
+                _kf_id = hash_kf_id;
+            } else {
+                //读取客服cookie
+                kefu_data = $.cookie(JmwInitJson.model_lx_gid + '_data');
+                if (kefu_data != undefined && kefu_data != "") {
+                    kefu_data = JSON.parse(kefu_data);
+                    console.log("获取cookie中的客服信息");
+                    console.log("第二次进入不重复统计");
+                    UpKfData();
+                    return;
+                }
+            }
+        }
+        GetKfData();
+    });
+</script>
+
+<script src="/templates/js/ls.js"></script>
+<link rel="shortcut icon" href="/templates/favicon.ico">
+
+<script type="text/javascript">
+    var JmwInitJson = { model_city: "嗯是心泽四--360", model_lx_gid: "c602c88", model_lx_id: "57", config_ipapisource: "sohu", config_oid138: "71309", config_mid138: "128600", config_token138: "757a4419630a3f6304618da175d46f6f", model_lx_is_cookie: "1", model_lx_biaodan: "0", model_lx_lock_share_wx: "1", mobile_pc: "mobile", dep_id: "1", wd_id: "54", reply_list: "reply_list_c602c88", repeat_copy: "1", repeat_word: "1" };
+</script>
+
+
+
+<!--自定义CSS代码↓-->
+<style type="text/css">
+    
+</style>
+<!--自定义CSS代码↑-->
+
+    <style type="text/css">
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        html, body {
+            height: 100%;
+            background-color: #f2f2f2;
+        }
+
+        #container {
+            width: 100%;
+            height: 150px;
+            overflow: hidden;
+        }
+
+        .sections, .section {
+            height: 100%;
+        }
+
+        #container, .sections {
+            position: relative;
+        }
+
+        .section {
+            background-color: #000;
+            background-size: cover;
+            background-position: 50% 50%;
+            text-align: center;
+            color: white;
+        }
+
+        .tsearchbox {
+            float: right;
+            width: 236px;
+            border: 0px solid #ececec;
+            background: #ffffff;
+            margin-right: 20px;
+        }
+
+        .crumb {
+            position: relative;
+        }
+
+        .inputsearch {
+            width: 192px;
+        }
+
+        .div-b {
+            width: 100%;
+            height: 110px;
+            background: rgba(240,240,240,0.8);
+            position: absolute;
+            bottom: 20px;
+        }
+
+        .imguser {
+            vertical-align: middle;
+            height: 40px;
+            width: 40px;
+            margin-right: 5px;
+            border-radius: 50%;
+        }
+
+        .btnsearch {
+            height: 31px;
+            width: 30px;
+            margin-top: 4px;
+            margin-right: 5px;
+        }
+
+        .inputsearch {
+            height: 30px;
+            border: 1px solid #d4d5d0;
+            width: 197px;
+            margin-top: 4px;
+        }
+
+        p {
+            margin-bottom: 10px;
+            margin-top: 10px;
+        }
+    </style>
+
+
+    <!--统计代码-->
+    
+    <!--统计代码-->
+</head>
+<body huaban_collector_injected="true" style="">
+    <div style="background-color:white;width:100%">
+        <div class="contain clearfix">
+            
+            <img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/lvyoudaren.jpg">
+            
+
+
+        </div>
+    </div>
+    <div style="height:40px;background-color:#2677e3">
+        <div class="contain clearfix" style="padding:7px 0;">
+            <span style="color:white;margin-right: 38px;">首页</span>
+
+            <span style="color:white;margin-right: 38px;">三亚</span>
+
+            <span style="color:white;margin-right: 38px;">北海</span>
+
+            <span style="color:white;margin-right: 38px;">张家界</span>
+
+            <span style="color:white;margin-right: 38px;">哈尔滨</span>
+
+            <span style="color:white;margin-right: 38px;">青岛</span>
+
+            <span style="color:white;margin-right: 38px;">成都</span>
+
+            <span style="color:white;margin-right: 38px;">云南</span>
+
+            <span style="color:white;margin-right: 38px;">桂林</span>
+
+            <span style="color:white;margin-right: 38px;">衡阳</span>
+
+            <span style="color:white;margin-right: 38px;">北京</span>
+
+            <span style="color:white;margin-right: 38px;">更多</span>
+        </div>
+    </div>
+    <div style="background-color:white;width:100%">
+        <div class="contain clearfix" style="height: 40px;">
+            <div style="float:left;margin-top: 6px;">
+                <img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/mudidigonglue.png"> <span>目的地攻略</span> <span style="color: #31b8e7;">游记</span>
+            </div>
+            <div class="tsearchbox">
+                <input name="textfield2" type="text" class="inputsearch" id="textfield2" placeholder="搜索城市/景点/游记/问答/住宿/用户">
+                <input name="" type="button" class="btnsearch" style="background:url(/templates/p_ldy09/images/chaxunanniu.png);">
+            </div>
+        </div>
+    </div>
+    <div class="contain clearfix" style="">
+        <div class="crumb" style="padding-top: 5px;">
+            <div id="sections" style="background-size: 100% 100%; background-image: url(/upload/202106/16/202106161245589531.jpg); height: 400px; display: block;">
+                <div class="div-b">
+
+                    <div style="margin-top:5px;width: 100%;padding-top:12px;">
+                        <span class="askQuestion" id="title" style="color: black;font-size: 25px;float:left;padding-left: 40px;line-height:35px;">
+                            恩施有什么好玩的？玩几天合适？想去神农架、地心谷、清江画廊，怎么安排比较合理？
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main" style="width:780px;">
+            <div class="faqitem">
+                <div style="font-size: 14px;">
+                    <div style="float:left">
+                        <span><img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/zhikanwenzi.png"></span>
+                    </div>
+                    <div style="float:right;cursor:pointer;">
+                        <span onclick="layer.msg('收藏成功')"><img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/shoucang.png">收藏</span>
+                        <span onclick="layer.msg('谢谢支持')">
+                            <img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/xihuan.png">喜欢
+                        </span>
+                        <span onclick="MessageShow('0')">
+                            <img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/pinglun.png">评论
+                        </span>
+                        <span>
+                            <img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/liulan.png">浏览
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="faqitem">
+                <div style="font-size: 14px;">
+                    <div>
+                        <span><img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/tianshu.png">天数:<span></span></span>
+                        <span><img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/shijian.png">时间:<span></span></span>
+                        <span><img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/heshei.png">和谁:<span></span></span>
+                    </div>
+                    <br>
+                    <div>
+                        <span><img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/wanfa.png">玩法:<span>自由行、结伴游</span></span>
+                    </div>
+                    <br>
+                    <div>
+                        <span><img src="/templates/js/lazyload.gif" data-original="/templates/p_ldy09/images/dibiao.png">作者去了这些地方:<span id="clearfix"><a>北京、湖南、内蒙、贵州、海南、西藏</a></span></span>
+                    </div>
+                </div>
+            </div>
+            <!--faqitem-->
+            <div class="faqitem">
+                <div class="text" id="prop">
+                    <span style="color:#ababab;font-size:14px;">发布于</span>
+                    <p>想找个当地向导咨询下恩施旅游情况，求攻略<br/></p>
+                </div>
+            </div>
+            <!--faqitem end-->
+            <!--discuss-cont-->
+            <div class="discuss-cont" id="syhf">
+                <!--取得DataTable-->
+                
+                <div class="mod_discuss clearfix jmw_hf" data-hf="257">
+                    <a href="javascript:;" class="zan_left jmw_zan" data-hf="257">529</a><div class="discmain">
+                        <div class="uname">
+                            <img src="/head_img/往事焚.jpg" class="userpic " />
+                            <a class="">往事焚</a>
+                        </div>
+                        <div class="intro" id="imge0">
+                            <p><video class="edui-upload-video  vjs-default-skin   video-js" controls="" poster="/upload/202303/24/202303241117073750.png" preload="none" width="undefined" height="undefined" src="/upload/202303/24/202303241111349531.mp4" data-setup="{}" -webkit-playsinline webkit-playsinline playsinline></video></p><p>&nbsp; 现在恩施很适合，天气凉爽，很多景区门票半价，还有很多优惠。</p><p>&nbsp; &nbsp; 去恩施定要体验一次<span style="color: rgb(255, 0, 0);">唱民歌，坐木船、吃富硒餐、喝摔碗酒</span>。现在<span style="color: rgb(255, 0, 0);">去恩施可以说是最好的，白天游山玩水、有漂流、水上泛舟、网红浮桥等，晚上住一晚崖舍享受自然空调、听虫鸣，逛一逛女儿城载歌载舞，各类美食琳琅满目</span></p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202305/06/202305061611335468.png" title="图片5.png" _src="/upload/202305/06/202305061611335468.png" alt="图片5.png"/></p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202305/06/202305061611463906.jpg" title="202105061103543750.jpg" _src="/upload/202305/06/202305061611463906.jpg" alt="202105061103543750.jpg"/></p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202109/07/202109071043160156.jpg" title="qfl恩施16.jpg" _src="/upload/202109/07/202109071043160156.jpg" alt="qfl恩施16.jpg"/></p><p style="text-align: center;"><span style="color: rgb(0, 176, 80);">.北纬30度，有着太多未解之谜，故而更加神秘，也更加迷人。带着神秘，我来到了恩施。</span></p><p><span style="color: rgb(0, 176, 80);"></span></p><hr/><p>&nbsp; &nbsp;恩施，一个拥有无数秘境里的美景，却因为独特的地理位置，让它一直没有像大理、丽江、杭州这些热门景点般有大量的游客，多年以来，只顾自己低调地美着。</p><p>&nbsp; &nbsp;虽然地处重庆和武汉这两座大火炉之间，却是最适宜居住的地方，不仅如此，恩施森林覆盖面积高达70%以上，每当<span style="color: rgb(255, 0, 0);">7、8、9.10月</span>的夏季，全国各地都受到高温的包围时，这里正不紧不慢地过着悠闲夏日。</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202303/21/202303211535280937.jpg" title="微信图片_20230321153156.jpg" _src="/upload/202303/21/202303211535280937.jpg" alt="微信图片_20230321153156.jpg"/></p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202106/11/202106111520079218.jpg" title="微信图片_20210526093543.jpg" _src="/upload/202106/11/202106111520079218.jpg" alt="微信图片_20210526093543.jpg"/></p><p>&nbsp; &nbsp; 个人觉得恩施是非常适合导游带玩的方式游玩的，因为恩施<span style="color: rgb(255, 0, 0);">：（景点跨度大，山路很复杂，酒店不好找，一般本地人开店的都喜欢坑游客这是全国统一的，大家都知道）。</span></p><p>&nbsp; &nbsp;朋友去了趟恩施跟我说摇裤逗亏落了，开始还以为遇到啥大坑了呢，直到<span class='sp_ta'>她</span>给我发回了照片，我说晓得的知道你去了恩施，不晓得的还以为你去了哪个山咔咔头闲逛了，这跟我们老家山头有啥区别</p><p>这活脱脱的就是一例出门不做攻略的下场啊<br/></p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202303/21/202303211537431562.jpg" title="微信图片_20230321153143.jpg" _src="/upload/202303/21/202303211537431562.jpg" alt="微信图片_20230321153143.jpg"/></p><p><span style="color: rgb(255, 0, 0);">后来</span>和朋友再去湖北<span style="color: rgb(255, 0, 0);">恩施大峡谷、地心谷、清江蝴蝶岩、梭布垭石林.....</span>玩了5天，当时玩的非常开心，平均下来一个人就花了一千多点，我是经过朋友的介绍找到了恩施当地非常火的自由行金牌行程规划师<span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span></span>，一枚乖巧土家族姑娘，也是一名导游。</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202303/21/202303211539008906.jpg" title="微信图片_20230209122843.jpg" _src="/upload/202303/21/202303211539008906.jpg" alt="微信图片_20230209122843.jpg"/></p><p style="text-align: center;"><span style="color: rgb(0, 176, 80);">恩施的美用文字无法形容，怎么说呢？在我看来，除了大海，恩施把我心目中大部分的美景都能融入进去</span>。</p><p>&nbsp; &nbsp;出发恩施之前顾虑很多，回来才发现之前的顾虑都是多余的，<span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span></span>会把恩施旅游的<span style="color: rgb(255, 0, 0);">注意事项、准备哪些东西、精华景点线路、交通、住宿、美食</span>等等细节都会告诉你。所以朋友们准备去恩施的可以加<span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span></span>微信<span style="color: rgb(255, 0, 0);"><span data-clipboard-action='copy' data-clipboard-target='#wx_copy' class='wx_qr_code sp_weixinhao ' style=''>15572439313</span></span>咨询一下。<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>在恩施呆了很多年，人也很热心的。<br/></p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202303/21/202303211535562343.jpg" title="微信图片_20230321153206.jpg" _src="/upload/202303/21/202303211535562343.jpg" alt="微信图片_20230321153206.jpg"/></p><p><span style="font-size: 18px;"><strong>以下是我的分享和感受，可以借鉴 （<span style="font-size: 18px; color: rgb(255, 0, 0);">5天4晚跨两省湖北湖南精华景点</span>）</strong></span></p><p><span style="font-size: 18px; color: rgb(0, 176, 240);">▶恩施旅游行程篇;</span></p><p></p><p><span style="font-size: 18px; color: rgb(0, 176, 240);">DAY1：&nbsp;接客人入住酒店 ；宿恩施</span></p><p><span style="font-size: 18px; color: rgb(0, 176, 240);">DAY2：&nbsp;赴野三峡风景区，恩施人的母亲河--清江，蝴蝶岩景区，走进地心谷，女儿城夜景狂欢；含早中晚，宿恩施</span></p><p><span style="font-size: 18px; color: rgb(0, 176, 240);">DAY3：&nbsp;恩施大峡谷景区，七星寨绝壁栈道，云龙河地缝，空中走廊&nbsp; ；含早中晚，宿恩施</span></p><p><span style="font-size: 18px; color: rgb(0, 176, 240);">DAY4：游素有中国网红十大古镇之称、挂在瀑布上的千年古镇（芙蓉镇），观大型演艺“芙蓉花开”含早中晚，宿芙蓉镇</span></p><p><span style="font-size: 18px; color: rgb(0, 176, 240);">DAY5：【湘西苗寨】地处吉首、保靖、古丈三县（市）交界处，扼守洞庭湖区前往湘西大山深处的交通要道，为古时南方长城的起点“喜鹊营”的驻地，真正走进苗家做客，体验苗家生活、了解苗家文化、感受苗家风韵，切身体验拦门酒之好奇，侧耳聆听侗族大歌的天籁之音，亲身感受大湘西民俗敬酒之气息</span></p><p><span style="font-size: 18px; color: rgb(0, 176, 240);">AAAA:（其<span class='sp_ta'>她</span>景点：宜昌三峡、三峡大坝、鹤峰屏山、神农架、三峡人家、腾龙洞、土司城）</span></p><p><span style="font-size: 18px; color: rgb(0, 176, 240);"></span></p><p><span style="color: rgb(0, 176, 240);"></span></p><p><span style="color: rgb(0, 176, 240);"></span></p><hr/><p><span style="color: rgb(0, 176, 240);"></span></p><p>AAAA:（其<span class='sp_ta'>她</span>景点：<span style="color: rgb(255, 0, 0);">鹤峰屏山、神农架、三峡人家、腾龙洞、土司城....</span>）</p><p>如果你时间跟我差不多，也可以跟着这个行程来，如果有其它想去的景点或者时间不一致，也可以联系<span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span></span>给你定制属于你的行程<br/><span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span></span>微信给你：<span style="color: rgb(255, 0, 0);"><span data-clipboard-action='copy' data-clipboard-target='#wx_copy' class='wx_qr_code sp_weixinhao ' style=''>15572439313</span>（手机微信同号，长按复制添加）</span></p><p><span style="color: rgb(0, 176, 240);"><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161444128906.jpg" title="微信图片_20210301181137.jpg" _src="/upload/202105/16/202105161444128906.jpg" alt="微信图片_20210301181137.jpg"/></span></p><p>&nbsp; &nbsp;5天时间恩施的精华核心景点都玩到了，没有赶行程也没有强制购物，玩的非常的舒心。不愧是被《中国国家地理》评选为“<span style="color: rgb(0, 176, 240);">中国最美的地方</span>”！恩施大峡谷，谷中看山步步惊心；自带空调效果的“<span style="color: rgb(0, 176, 240);">世界凉都</span>”，一切都美极了！！！</p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161447242812.jpg" title="微信图片_202103011453107.jpg" _src="/upload/202105/16/202105161447242812.jpg" alt="微信图片_202103011453107.jpg"/></span></p><p><strong><span style="color: rgb(0, 176, 240);">▶恩施旅游交通篇</span></strong></p><p><span style="color: rgb(255, 0, 0);">飞机：</span>许家坪机场距离恩施市区4.5公里，广州、武汉、北京、海口、上海等地均有航班前往恩施，但中途需在武汉转机。&nbsp;</p><p><br/><span style="color: rgb(255, 0, 0);">火车：</span>火车站距市中心7公里左右，是宜万铁路地级最大中间站，已经开通了动车，目前从宜昌到恩施只需要1个多小时。</p><p><br/><span style="color: rgb(255, 0, 0);">汽车：</span>恩施市区有舞阳车站和清江宾馆车站，前者有发往武汉、广州、重庆等大中城市以及州内其<span class='sp_ta'>她</span>县市的班车，后者主要发往武汉、宜昌、沙市、仙桃等省内城市及州内其<span class='sp_ta'>她</span>县市区。</p><p><br/><span style="color: rgb(255, 0, 0);">自驾：</span>自驾去恩施一般有两条路，武汉－宜昌－恩施，重庆－利川－恩施。恩施境内多山路，驾驶需减速谨慎，山路经验不丰富的不建议自驾！</p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202303/21/202303211539408906.jpg" title="微信图片_20230321153232.jpg" _src="/upload/202303/21/202303211539408906.jpg" alt="微信图片_20230321153232.jpg"/></span><br/></p><p><strong><span style="color: rgb(0, 176, 240);"></span></strong></p><p><strong><span style="color: rgb(0, 176, 240);">▶恩施旅游疑问篇</span></strong></p><p><span style="color: rgb(255, 0, 0);">Q1：去恩施要怎么去？</span></p><p>•恩施是一个近几年火起来的旅游城市，飞机、动车、汽车各种交通工具到达都很方便。我们到恩施的时候，已经提前安排好专车来接我们去酒店。避免第一次去恩施对环境不熟悉，走错路和被坑都是常有的事。</p><p><span style="color: rgb(255, 0, 0);">Q2：到恩施住哪里方便？</span></p><p>•恩施景点以市区为中心分散开去，一天玩一个景点，基本上是在一个酒店呆着不挪窝，所以好的酒店容易爆满。我们去的时候正是暑假旅游高峰期，当时到了恩施后，看到很多自己玩的的人为找酒店，坐车，定行程，搞得焦头烂额。<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>为我们安排的都是恩施当地五星豪华酒店，住的非常舒服。</p><p><strong><span style="color: rgb(0, 176, 240);"></span></strong></p><p><span style="color: rgb(255, 0, 0);"></span></p><hr/><p><span style="color: rgb(255, 0, 0);">Q3：去恩施玩几天合适？</span></p><p>•至少4-6天，这样才能完全领略恩施的精华，如果假期有限的话，3-4天好好规划，尽量把经典景点玩一遍，才不枉此行。</p><p><span style="color: rgb(255, 0, 0);">Q4：到恩施需要导游吗？</span></p><p>•恩施景区相隔较远且在山区道路错综复杂，如果想要玩得更省心省钱一些，建议可以找个当地的导游安排好景点行程，不用自己做攻略和安排行程酒店，也避免被坑踩雷，只要开心游玩就好啦~重点是不走冤枉路。</p><hr/><p><span style="color: rgb(255, 0, 0);">Q5：到了景点再去买票可以吗？</span></p><p>•一定要提前预定好再去，节省排队的时间不说，还能确保当天能进景区玩的愉快。尤其旺季的时候，景区门票一定一定一定要提前预定！我们的景点门票也是<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>帮我们提前预定的。</p><p><strong><span style="color: rgb(0, 176, 240);"></span></strong><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161457368593.jpg" title="微信图片_20210304140228.jpg" _src="/upload/202105/16/202105161457368593.jpg" alt="微信图片_20210304140228.jpg"/></p><p><strong><span style="color: rgb(0, 176, 240);">▶恩施旅游价格篇</span></strong></p><p>&nbsp; 相对全国旅游景点来说，恩施旅游是新兴旅游景点，不比张家界、云南那些老牌景点。价格相对来说也不是很高，但是网上报价也是各有各样。<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>给我们一行5人安排玩了5天，没人平均<span style="color: rgb(255, 0, 0);">700左右。包含吃的、住的、门票、用车、保险等。住宿还是四星级的酒店</span>。我觉得很超值了。<br/></p><p>&nbsp; &nbsp;相信很多人不敢相信，我在去之前也很是质疑。玩完之后才搞明白，原来旅行社和当地的酒店、餐馆、车队什么的都有合作，由导游来定制行程所以就比我们自己去订便宜多了。<br/></p><hr/><p>费用都包含了：</p><p>1、景点：一柱香、恩施大峡谷、清江、梭布垭、土司城、女儿城、狮子关等景点.</p><p>2、交通：全程的交通费（非常关键），路程较远。</p><p>3、住宿：还包含行程所有的酒店</p><p>4、早中餐</p><p>4、全程服务费</p><p>个人觉得费用很划算了</p><p>全程没有购物点，没有自费项目，并且玩的很自由</p><p>&nbsp; &nbsp;<span style="color: rgb(255, 0, 0);">跟团游：</span>团费1500-2000，听着不贵，但是行程很死板时间很赶，说不定还会有变向购物，体验不好，而且总的算下来，肯定比团费多出不少。</p><p>&nbsp; &nbsp;<span style="color: rgb(255, 0, 0);">纯自由行：</span>5000以上，自己定酒店、买门票、打车（恩施的景点相距很远，且公共交通不便）就是很大的一笔费用，而且还是心累。</p><p>&nbsp; <span style="color: rgb(255, 0, 0);">&nbsp;半自由行：</span>规划师根据你的情况制定行程，所有的都可以交给专人安排，性价比高的、土豪高端游的、网红的都可以任你选择，平均下来一般700多就可以搞定。推荐！</p><p><span style="color: rgb(255, 0, 0);">半自由行规划师：<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>：<span data-clipboard-action='copy' data-clipboard-target='#wx_copy' class='wx_qr_code sp_weixinhao ' style=''>15572439313</span></span></p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161450044531.jpg" title="微信图片_20210301181232.jpg" _src="/upload/202105/16/202105161450044531.jpg" alt="微信图片_20210301181232.jpg"/></span><br/></p><p style="text-align: center;"><span style="color: rgb(0, 176, 80); text-align: center;">这里的美景小众又神秘</span></p><p style="text-align: center;"><span style="color: rgb(0, 176, 80); text-align: center;">每一处风景都低调地隐秘在森林山谷</span></p><p><span style="color: rgb(0, 176, 80); text-align: center;"></span></p><hr/><p><strong><span style="color: rgb(0, 176, 240);">▶恩施旅游景点篇</span></strong></p><p>恩施景点众多，在这里给大家推荐几个非常值得一去的核心景点</p><p><span style="color: rgb(255, 0, 0);">1、恩施大峡谷，挂壁公路。惊、险、奇。</span>壮观程度堪比美国科罗拉多大峡谷。大峡谷中的景观都是自然形成的，原始森林、千丈瀑布、山顶云海，还有喀斯特地貌太让人惊艳了。更重要的是，这样一个迷人的地方建了一个“中国蕞长旅游观光电梯”，特别适合带老人或小孩的人游玩。</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161453064218.jpg" title="微信图片_20210301181236.jpg" _src="/upload/202105/16/202105161453064218.jpg" alt="微信图片_20210301181236.jpg"/></p><p><span style="color: rgb(255, 0, 0);">2、云龙地缝-地球上最美伤痕</span></p><p>两岸陡峭，飞瀑狂泻、缝底流水潺潺、上通天水暗河。下联莽莽清江。【七星寨景区】里面，感受有惊无险的“绝壁栈道”、欣赏可与黄山媲美的“<span style="color: rgb(255, 0, 0);">迎客松</span>”、感受神奇地质地貌“<span style="color: rgb(255, 0, 0);">一炷香</span>”，真的是美不胜收</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161505392031.jpg" title="微信图片_20210415095326.jpg" _src="/upload/202105/16/202105161505392031.jpg" alt="微信图片_20210415095326.jpg"/></p><p><strong><span style="color: rgb(255, 0, 0);">3、大自然的鬼斧神工-梭布垭石林</span></strong></p><p>梭布垭石林被称为世界第--奥陶纪石林，这里形成于4.6亿年前的奥陶纪时期。<span style="color: rgb(255, 0, 0);">喀斯特地貌</span>让这里的石头变得千奇百怪，植被覆盖面积很高，加上特有的气候，到了夏天特别凉爽。走在石林中，真的会有一种敬畏自然的鬼斧神工，感受人类渺小的感觉。</p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161507191250.jpg" title="微信图片_20210301181345.jpg" _src="/upload/202105/16/202105161507191250.jpg" alt="微信图片_20210301181345.jpg"/></span><br/></p><p><strong><span style="color: rgb(255, 0, 0);">4、女儿城一全国土家族文化集聚地。</span></strong></p><p>女孩子的天堂，同样是男孩子的天堂，哈哈！青山环绕的土家女儿城，是体验原汁原味的土家熏制和吊脚楼等传统文化的好去处。这儿有全国首创的室内情景剧场-女儿城大剧院，同时还有湖北省内最大的水上乐园，恩施土家的特色民俗相亲活动—女儿会也在这儿</p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161508148437.jpg" title="z2.jpg" _src="/upload/202105/16/202105161508148437.jpg" alt="z2.jpg"/></span><br/></p><p><strong><span style="color: rgb(255, 0, 0);">5、清江画廊;</span></strong><span style="color: rgb(0, 0, 0);">带你走进山水画中，国内最美徒步旅行地之一江中岛屿“<span style="color: rgb(255, 0, 0);">蝴蝶崖</span>”。清江是恩施的母亲河，恩施段的清江景色蕞美、蕞深、蕞具有原生态特色～<br/>&nbsp; &nbsp;坐在游船上，吹着习习凉风，欣赏着山水风光：沿江两岸是喀斯特地貌岩壁景观，上面有让人联想的自然壁画、神秘的悬棺、奇特形状的山峰，石缝中还有飞瀑流泉，非常壮观。江水清澈，与漓江相比，人少，景色更加美丽，两岸的吊脚小楼更是点睛之笔，真想去住一段时间慢慢感受～</span></p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161509314062.jpg" title="007.jpg" _src="/upload/202105/16/202105161509314062.jpg" alt="007.jpg"/></span></p><p><span style="color: rgb(255, 0, 0);">6、地心大峡谷，带你探索仙境，很值得一去的景点。多的不说，自己视频欣赏吧</span></p><p><span style="color: rgb(255, 0, 0);"><video class="edui-upload-video  vjs-default-skin                 video-js" controls="" poster="/upload/202105/16/202105161512100625.jpg" preload="none" width="undefined" height="undefined" src="/upload/202105/16/202105161511180000.mp4" data-setup="{}" -webkit-playsinline webkit-playsinline playsinline></video></span></p><p><span style="color: rgb(255, 0, 0);">7、网红打卡地：狮子关水上浮桥</span></p><p><span style="color: rgb(255, 0, 0);"><video class="edui-upload-video  vjs-default-skin                 video-js" controls="" poster="/upload/202105/16/202105161515342500.jpg" preload="none" width="undefined" height="undefined" src="/upload/202105/16/202105161514435937.mp4" data-setup="{}" -webkit-playsinline webkit-playsinline playsinline></video></span></p><p><span style="color: rgb(255, 0, 0);"><span style="color: rgb(0, 0, 0);">有足够时间的，还可以去一下富有神秘色彩的</span>神农架、恩施土司城、腾龙洞、鬼吹灯里面的屏山等，<span style="color: rgb(0, 0, 0);">联系<span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>：<span data-clipboard-action='copy' data-clipboard-target='#wx_copy' class='wx_qr_code sp_weixinhao ' style=''>15572439313</span></span>帮你安排就行了</span></span></p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161517297031.jpg" title="微信图片_20210415095346.jpg" _src="/upload/202105/16/202105161517297031.jpg" alt="微信图片_20210415095346.jpg"/></span></p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161518253125.jpg" title="微信图片_20210302160442.jpg" _src="/upload/202105/16/202105161518253125.jpg" alt="微信图片_20210302160442.jpg"/></span></p><p><strong><span style="color: rgb(0, 176, 240);">▶恩施旅游食宿篇</span></strong></p><p>去恩施旅游是一场马拉松，哈哈，实测每天都在暴走。pick一间干净漂亮的民宿和好的酒店好好休息真的很有必要</p><p><span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span></span>给我们安排的都是当地的四星级以上酒店或者精品民宿，酒店价格不仅实惠而且环境特别舒适，而且会根据我们的要求订制适合我们的酒店。有需要的还可以叫<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>帮你预定悬崖酒店“<span style="color: rgb(255, 0, 0);">崖舍</span>”，<span style="color: rgb(255, 0, 0);">这里提一句崖舍比较抢手一般都要提前预定。而且比较贵。不是必须还是考虑市区酒店更好，晚上还能出去逛逛街欣赏欣赏硒都文化</span></p><p></p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202106/11/202106111525410000.jpg" title="微信图片_20210603195317.jpg" _src="/upload/202106/11/202106111525410000.jpg" alt="微信图片_20210603195317.jpg"/></span></p><p><span style="color: rgb(255, 0, 0);"></span></p><p style="text-align: center;"><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202106/11/202106111526013125.jpg" title="微信图片_20210301160240.jpg" _src="/upload/202106/11/202106111526013125.jpg" alt="微信图片_20210301160240.jpg"/></span></p><p style="text-align: center;"><span style="color: rgb(255, 0, 0);">这里的美食让你流连忘返<br/>一座夹在武汉重庆之间的火辣之都</span></p><p style="text-align: center;"><span style="color: rgb(255, 0, 0);"></span></p><hr/><p>&nbsp; &nbsp;恩施的食物既有蜀地麻辣特色又具潇湘香辣风格，特别是当地颇具土家族特色的风味小吃更赞。恩施的<span style="color: rgb(255, 0, 0);">酸菜、富硒洋芋糊、辣子鸡，以及土家族的格格、合渣、腊肉、社饭、茶汤、莼菜、仙境豆夫、土豆干</span>等美食小吃真的是风味独特，好吃到爆。还有恩施大饼也非常推荐，它跟我们常吃的土家酱香饼做法不一样，豆皮是面条那种，蛋皮是特有的，还有恩施<span style="color: rgb(255, 0, 0);">醪糟</span>也不要错过。具体美食位置和店直接找<span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span></span>要吧，<span class='sp_ta'>她</span>给的比我更准确！</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161523545468.jpg" title="微信图片_20210301181405.jpg" _src="/upload/202105/16/202105161523545468.jpg" alt="微信图片_20210301181405.jpg"/><span style="color: rgb(255, 0, 0); font-size: 18px;">去恩施为什么要找<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>导游？</span></p><p>1、全程很自由，哪里有好玩的，就随时停下来。<br/>2、所有的景点都提前安排好好的，完全不用操心。</p><p>3、全程都没有带我们去购物店，都是一直在看美景，拍美照，吃美食。<br/>4、还有也是最感动的一点，<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>全程真的就没停下，不是帮我们提东西就是帮我们拍照，真的特别贴心。<br/></p><p>5、知识面很广，讲解方式让人非常有记忆点，涨了很多知识<br/>6、<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span><span class='sp_ta'>她</span>们做口碑和回头客，真心把游客当朋友看待，不会像其<span class='sp_ta'>她</span>导游那样只做一次买卖</p><p>7、公司实力强，经常都是VIP通道，不用排队；公司正规，到了就给你签正规的合同，定下来的东西全部在上面写的清清楚楚的。</p><p>只要你去恩施旅游，不论玩几天，<span class='sp_ta'>她</span>都可以根据你的时间和兴趣景点安排一份适合你游玩的行程路线，最最重要的一点是，自由！自由！自由！重要的事情说三遍，去恩施找<span class='sp_ta'>她</span>绝不会错，我把<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>的微信贴出来，细节问题就自己问吧。</p><p><span style="color: rgb(255, 0, 0);"><span data-clipboard-action='copy' data-clipboard-target='#wx_copy' class='wx_qr_code sp_weixinhao ' style=''>15572439313</span></span>（电话微信同号，长按复制添加）</p><p><img class='sp_weixintu ' src="/upload/202304/28/202304280945105781.jpg" alt="" /></p><p><br/></p>
+                        </div>
+                        <!--取得DataTable-->
+                        <div class="distool clearfix">
+                            <div class="disleft">
+                                <a href="javascript:void(0);" class="taolun">
+                                    <span style="font-size:14px;">讨论0</span>
+                                </a>
+                            </div><div class="disright"></div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="mod_discuss clearfix jmw_hf" data-hf="258">
+                    <a href="javascript:;" class="zan_left jmw_zan" data-hf="258">540</a><div class="discmain">
+                        <div class="uname">
+                            <img src="/head_img/归来仍是少年.jpg" class="userpic " />
+                            <a class="">归来仍是少年</a>
+                        </div>
+                        <div class="intro" id="imge0">
+                            <p>看着不错，就是不知道可信不？上次去云南找的旅行团可坑了，各种自费项目，都有心理阴影了。</p>
+                        </div>
+                        <!--取得DataTable-->
+                        <div class="distool clearfix">
+                            <div class="disleft">
+                                <a href="javascript:void(0);" class="taolun">
+                                    <span style="font-size:14px;">讨论3</span>
+                                </a>
+                            </div><div class="disright"></div>
+                        </div>
+                        
+                        <div class="tbox jmw_tl" data-tl="474">
+                            <div class="icon"></div>
+                            <ul class="disclist">
+                                <li class="clearfix">
+                                    <img src="/head_img/往事焚.jpg" class="imgbox ">
+                                    <div class="text">
+                                        <h3><a class="">往事焚</a></h3>
+                                        <div><p>哈哈，这个你可以放心，消费都是很透明的，恩施不像那些老牌旅游景点，不会像你上次一样。我去过两次恩施，找的都是<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>，两次都玩的挺好的。<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>的口碑在当地导游里面是很好的。</p><p>&nbsp; &nbsp;交给<span class='sp_ta'>她</span>你就不需要操心，开开心心的玩就行了，<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>的贴心服务、热情的接待、细心的安排，我都特别满意！走在小路上，被森林与大山环绕着，听着音乐，那种感觉真的太棒了，感觉所有的烦恼都释然了。</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161533502343.jpg" title="微信图片_20210301171411.jpg" _src="/upload/202105/16/202105161533502343.jpg" alt="微信图片_20210301171411.jpg"/></p></div>
+                                        <div class="t"></div>
+                                    </div><div class="tmenu"></div>
+                                </li>
+                            </ul>
+                            <div class="addiscuss"></div>
+                        </div>
+                        
+                        <div class="tbox jmw_tl" data-tl="475">
+                            <div class="icon"></div>
+                            <ul class="disclist">
+                                <li class="clearfix">
+                                    <img src="/head_img/李天然.jpeg" class="imgbox ">
+                                    <div class="text">
+                                        <h3><a class="">李天然</a></h3>
+                                        <div><p>确实，去过恩施的都知道值得一去，选择<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>也是对的，我是几个同学结伴自由行，找<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>安排了的，玩的很开心</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161536151406.jpg" title="微信图片_20210301181527.jpg" _src="/upload/202105/16/202105161536151406.jpg" alt="微信图片_20210301181527.jpg"/></p></div>
+                                        <div class="t"></div>
+                                    </div><div class="tmenu"></div>
+                                </li>
+                            </ul>
+                            <div class="addiscuss"></div>
+                        </div>
+                        
+                        <div class="tbox jmw_tl" data-tl="476">
+                            <div class="icon"></div>
+                            <ul class="disclist">
+                                <li class="clearfix">
+                                    <img src="/head_img/Silver.jpeg" class="imgbox ">
+                                    <div class="text">
+                                        <h3><a class="">Silver</a></h3>
+                                        <div><p>好巧啊，我去时也是找的<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>安排的，安排的很满意。反正玩的蛮开心的，就是比较累</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161539180781.jpg" title="微信图片_20210301181535.jpg" _src="/upload/202105/16/202105161539180781.jpg" alt="微信图片_20210301181535.jpg"/></p></div>
+                                        <div class="t"></div>
+                                    </div><div class="tmenu"></div>
+                                </li>
+                            </ul>
+                            <div class="addiscuss"></div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="mod_discuss clearfix jmw_hf" data-hf="259">
+                    <a href="javascript:;" class="zan_left jmw_zan" data-hf="259">358</a><div class="discmain">
+                        <div class="uname">
+                            <img src="/head_img/一起笑.jpg" class="userpic " />
+                            <a class="">一起笑</a>
+                        </div>
+                        <div class="intro" id="imge0">
+                            <p>我是准备带全家过去玩，有老人小孩，准备自驾过去，不知道<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>能不能接待</p>
+                        </div>
+                        <!--取得DataTable-->
+                        <div class="distool clearfix">
+                            <div class="disleft">
+                                <a href="javascript:void(0);" class="taolun">
+                                    <span style="font-size:14px;">讨论2</span>
+                                </a>
+                            </div><div class="disright"></div>
+                        </div>
+                        
+                        <div class="tbox jmw_tl" data-tl="477">
+                            <div class="icon"></div>
+                            <ul class="disclist">
+                                <li class="clearfix">
+                                    <img src="/head_img/往事焚.jpg" class="imgbox ">
+                                    <div class="text">
+                                        <h3><a class="">往事焚</a></h3>
+                                        <div><p>当然可以的，自驾车给你安排车位，建议到恩施了不自驾。有小孩和老人一起的话可以叫<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>把行程安排宽松一点，大峡谷要走的比较多，具体的你可以加<span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span></span>的微信咨询。</p><p><span class='sp_ta'>她</span>的微信：&nbsp;<span style="color: rgb(255, 0, 0);">&nbsp;<span data-clipboard-action='copy' data-clipboard-target='#wx_copy' class='wx_qr_code sp_weixinhao ' style=''>15572439313</span></span>（长按复制添加微信）</p><p>给您来几组我在恩施游玩的照片吧，供您参考，确实很美：白天玩累了，晚上住进景区的豪华星空帐篷，全家人在一起看星星看月亮，聊聊天，让你真真切切的感受到陪伴家人的满足感</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161542213281.jpg" title="微信图片_20210302104211.jpg" _src="/upload/202105/16/202105161542213281.jpg" alt="微信图片_20210302104211.jpg"/></p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161542539062.jpg" title="微信图片_202103011453092.jpg" _src="/upload/202105/16/202105161542539062.jpg" alt="微信图片_202103011453092.jpg"/></p><p><br/></p></div>
+                                        <div class="t"></div>
+                                    </div><div class="tmenu"></div>
+                                </li>
+                            </ul>
+                            <div class="addiscuss"></div>
+                        </div>
+                        
+                        <div class="tbox jmw_tl" data-tl="478">
+                            <div class="icon"></div>
+                            <ul class="disclist">
+                                <li class="clearfix">
+                                    <img src="/head_img/一起笑.jpg" class="imgbox ">
+                                    <div class="text">
+                                        <h3><a class="">一起笑</a></h3>
+                                        <div><p>是的，常年在外，很少陪伴家人，这次带<span class='sp_ta'>她</span>们出来玩也是想弥补一下。那我去咨询一下<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>就开始着手安排出行计划了，希望一切顺利。谢谢你啦</p></div>
+                                        <div class="t"></div>
+                                    </div><div class="tmenu"></div>
+                                </li>
+                            </ul>
+                            <div class="addiscuss"></div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="mod_discuss clearfix jmw_hf" data-hf="260">
+                    <a href="javascript:;" class="zan_left jmw_zan" data-hf="260">379</a><div class="discmain">
+                        <div class="uname">
+                            <img src="/head_img/感性.jpg" class="userpic " />
+                            <a class="">感性</a>
+                        </div>
+                        <div class="intro" id="imge0">
+                            <p>当时去恩施是带着家人一起去的，恩施天气一直都很好！但是考虑到拖家带口又不熟悉怕手足无措，大人都还好，主要是怕老人孩子在外出状况！所以一直有顾虑！</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161547265937.jpg" title="微信图片_20210506130420.jpg" _src="/upload/202105/16/202105161547265937.jpg" alt="微信图片_20210506130420.jpg"/></p><p>后来是在网上看到网友的推荐认识了<span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span></span>在当地专业的自由行导游，聊过之后发现<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>真的很不错，全程的线路规划和住宿，交通都帮我们规划好了，考虑到我们带老人孩子，行程之间时间都很宽裕，而且价格真的很亲民。<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>还帮我们准确的避开了人群高峰，让我们带老人孩子比较轻松。真心建议想去恩施游玩的朋友可以咨询<span class='sp_ta'>她</span>微信<span style="color: rgb(255, 0, 0);"><span data-clipboard-action='copy' data-clipboard-target='#wx_copy' class='wx_qr_code sp_weixinhao ' style=''>15572439313</span></span><span style="color: rgb(255, 0, 0);">（←点击可复制）</span>，旅游就是出来享受的，正好可以满足你！</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161548247656.jpg" title="微信图片_20210506130438.jpg" _src="/upload/202105/16/202105161548247656.jpg" alt="微信图片_20210506130438.jpg"/></p><p>如果是自己去玩，自己定几晚好一点的酒店加上门票费用都不止1千多啦。我们全程5天4晚算下来大人平均花费才1000多点，除了大交通和自己享受的一些代步工具外，基本上没花什么其它钱，费用都含了：<br/>【门票】行程中所有景点的门票；<br/>【交通】全程的交通费，路程较远，还有专车接送机服务；<br/>【住宿】4晚豪华酒店，超赞；<br/>【吃饭】5正4早，吃得很不错（其中还包含了一个特色餐）；<br/>【服务】全程导游管家式服务（<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>导游耐心、周到）；</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161549015312.jpg" title="z103.jpg" _src="/upload/202105/16/202105161549015312.jpg" alt="z103.jpg"/></p><p>一场说走就走的旅行真的来之不易，希望自己能把旅途中见识的精彩慢慢充实到生活中，慢慢的改变我们的生活方式，共同维护这么美好的家园。恩施，我们再见有期！</p>
+                        </div>
+                        <!--取得DataTable-->
+                        <div class="distool clearfix">
+                            <div class="disleft">
+                                <a href="javascript:void(0);" class="taolun">
+                                    <span style="font-size:14px;">讨论0</span>
+                                </a>
+                            </div><div class="disright"></div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="mod_discuss clearfix jmw_hf" data-hf="261">
+                    <a href="javascript:;" class="zan_left jmw_zan" data-hf="261">186</a><div class="discmain">
+                        <div class="uname">
+                            <img src="/head_img/敏子.jpeg" class="userpic " />
+                            <a class="">敏子</a>
+                        </div>
+                        <div class="intro" id="imge0">
+                            <p>在网上找了很久的攻略，因为太多了，越看越头大，没有找出一条适合的路线，让<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>根据我们的时间设计的线路，我们一家人在恩施游玩几天下来感觉非常好！推荐<span class='sp_ta'>她</span>家的结伴自由行，几个家庭一起游玩，结伴自由行，跟旅行社跟团游完全不一样，<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>把行程全部给安排好，既省心、又轻松、更自由，去恩施的可以咨询一下<span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>：<span data-clipboard-action='copy' data-clipboard-target='#wx_copy' class='wx_qr_code sp_weixinhao ' style=''>15572439313</span></span></p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161551066406.jpg" title="微信图片_20210506130300.jpg" _src="/upload/202105/16/202105161551066406.jpg" alt="微信图片_20210506130300.jpg"/></span></p><p><span style="color: rgb(255, 0, 0);"><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161551199843.jpg" title="微信图片_20210506130309.jpg" _src="/upload/202105/16/202105161551199843.jpg" alt="微信图片_20210506130309.jpg"/></span></p>
+                        </div>
+                        <!--取得DataTable-->
+                        <div class="distool clearfix">
+                            <div class="disleft">
+                                <a href="javascript:void(0);" class="taolun">
+                                    <span style="font-size:14px;">讨论0</span>
+                                </a>
+                            </div><div class="disright"></div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="mod_discuss clearfix jmw_hf" data-hf="262">
+                    <a href="javascript:;" class="zan_left jmw_zan" data-hf="262">442</a><div class="discmain">
+                        <div class="uname">
+                            <img src="/head_img/芩城一笑.jpeg" class="userpic " />
+                            <a class="">芩城一笑</a>
+                        </div>
+                        <div class="intro" id="imge0">
+                            <p>我们上次是带着家里人一起玩，没有别的人，我们是私人定制，费用会比普通的高一些，也是找的<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>安排的行程。行程很宽松啊，一天只去一到两个地方，<span style="color: rgb(255, 0, 0);"><span class='sp_xingming ' style='cursor: pointer;'>圆圆</span></span>值得信任</p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161553523281.jpg" title="微信图片_20210506132315.jpg" _src="/upload/202105/16/202105161553523281.jpg" alt="微信图片_20210506132315.jpg"/></p>
+                        </div>
+                        <!--取得DataTable-->
+                        <div class="distool clearfix">
+                            <div class="disleft">
+                                <a href="javascript:void(0);" class="taolun">
+                                    <span style="font-size:14px;">讨论0</span>
+                                </a>
+                            </div><div class="disright"></div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="mod_discuss clearfix jmw_hf" data-hf="263">
+                    <a href="javascript:;" class="zan_left jmw_zan" data-hf="263">156</a><div class="discmain">
+                        <div class="uname">
+                            <img src="/head_img/揽一身可爱.jpg" class="userpic " />
+                            <a class="">揽一身可爱</a>
+                        </div>
+                        <div class="intro" id="imge0">
+                            <p>现在出去旅游基本都是订好机票，再到目的地找一个服务好一点的当地旅行管家，自己参与行程的商定，剩下的事情交给旅行管家，很方便，而且省心还省钱，因为<span class='sp_ta'>她</span>们做这块都有合作资源，能拿到优惠价。<br/>我上次和朋友去的恩施，请了几天假，玩了一周，玩得超级痛快。恩施现在去的人非常多，最好提前预订安排好，以免到了之后找不到北，时间又浪费了。<br/>我们的恩施旅游，是找的<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>给我们安排的，一周下来该玩的都玩了，花费也不贵，挺划算的，如果你要去恩施的话，可以咨询一下<span class='sp_xingming ' style='cursor: pointer;'>圆圆</span>，多问问还是有好处的，省钱省心。<span style="color: rgb(255, 0, 0);">电话/微信：<span data-clipboard-action='copy' data-clipboard-target='#wx_copy' class='wx_qr_code sp_weixinhao ' style=''>15572439313</span>（←点击可复制）。</span></p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161555321875.jpg" title="03.jpg" _src="/upload/202105/16/202105161555321875.jpg" alt="03.jpg"/></p><p><img src="/templates/js/lazyload.gif" data-original="/upload/202105/16/202105161555547656.jpg" title="微信图片_20210506130332.jpg" _src="/upload/202105/16/202105161555547656.jpg" alt="微信图片_20210506130332.jpg"/></p>
+                        </div>
+                        <!--取得DataTable-->
+                        <div class="distool clearfix">
+                            <div class="disleft">
+                                <a href="javascript:void(0);" class="taolun">
+                                    <span style="font-size:14px;">讨论0</span>
+                                </a>
+                            </div><div class="disright"></div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+            </div>
+            <div style="padding:20px 20px 20px 80px;">
+                <div>
+                    <textarea id="txt_content" style="background: #fff;box-sizing: border-box;border: 1px solid #e1e1e1;position: relative;min-height: 120px;width:100%;"></textarea>
+                </div>
+                <div>
+                    <div onclick="btn_send(0,this);" style="float:right;background: #41C074;display: inline-block;height: 28px;padding: 0 15px;border: none;border-radius: 3px;overflow: visible;font-size: 14px;line-height: 28px;color: #fff;text-align: center;cursor: pointer;">回答</div>
+                </div>
+            </div>
+        </div>
+        <!--sidebar-->
+        <div class="sidebar" style="width:360px;">
+            <div style="position: absolute;margin-left: 14px;margin-top: 14px;">
+                <img id="userheadimg" src="/head_img/专情予你.jpg" class="imguser " style="width:90px;height:90px;margin-top: 5px;margin-left: 5px;">
+                <div style="color:black;position: absolute;top: 20px;font-size: 16px;width: 100%;left: 103px;">
+                    <span id="twz" class="">
+                        专情予你
+                    </span>
+                    <img src="/templates/p_ldy09/images/daren.png">
+                </div>
+                <span style="color:black;position: relative;top: 11px;font-size: 16px;">VIP3 16篇游记</span>
+            </div>
+            <img src="/templates/p_ldy09/images/xuxian.png" style="margin-top: 115px;">
+            <div style="margin-top: 7px;margin-left:20px;">
+                <img class="imguser" style="height: 30px;width: 30px;" src="/templates/p_ldy09/images/touxiang2.jpeg">
+                <img class="imguser" style="height: 30px;width: 30px;" src="/templates/p_ldy09/images/touxiang3.jpeg">
+                <img class="imguser" style="height: 30px;width: 30px;" src="/templates/p_ldy09/images/touxiang4.jpeg">
+                <img class="imguser" style="height: 30px;width: 30px;" src="/templates/p_ldy09/images/touxiang5.jpeg">
+                <span style="font-size: 12px;color: #646464;">等人查看过TA</span>
+            </div>
+            <div style="margin-top: 50px;margin-left:14px;margin-right:14px;">
+                <h4 class="about_question__dt" style="border-bottom: 2px solid #ececec; font-size:16px;">达人分享</h4>
+                <ul class="about_question__dd" id="ulRelevant">
+                    <li>
+                        <img src="/templates/p_ldy09/images/05_10.jpg" style="width:100%;">
+                    </li>
+                </ul>
+            </div>
+
+            
+            <div id="div_weixin_img" style="width: 330px; box-shadow: rgba(0, 0, 0, 0.26) 2px 2px 10px; padding: 10px; border-radius: 10px; margin-top: 20px; box-sizing: border-box; background-color: rgb(255, 255, 255); margin-left: 15px;margin-bottom:15px;">
+                <div style="text-align: center; font-size: 14px; margin-bottom: 10px;">
+                    关注微信，扫一扫加 <span class="sp_xingming" style="color: #41C074;"></span> 的微信
+                </div>
+                <div>
+                    <img class="sp_weixintu" src="" style=" width: 100%;" />
+                </div>
+                <div style="text-align: center; font-size: 14px; ">
+                    微信号：<span class="sp_weixinhao" style="color:red;"></span>
+                </div>
+            </div>
+
+            <script type="text/javascript">
+                $(function () {
+                    $(window).scroll(function () {
+                        var pos = $(window).scrollTop();
+                        if (pos > 1245) {
+                            $("#div_weixin_img").css("position", "fixed");
+                            $("#div_weixin_img").css("top", "0px");
+                        } else {
+                            $("#div_weixin_img").css("position", "");
+                            $("#div_weixin_img").css("top", "");
+                        }
+
+                    });
+                });
+            </script>
+            
+        </div>
+        <!--sidebar end-->
+    </div>
+    
+    <div id="divVersion" style="font-size:12px;text-align:center;color:#666;"></div>
+
+    <!--网友评论-->
+    
+<script type="text/javascript">
+    function MessageShow(reply_id) {//reply_id：hf_id或者tl_id
+        var nick_name = $.cookie('nick_name');
+        var avatar = $.cookie('avatar');
+        var user_name = $.cookie('user_name');
+
+        if (user_name == undefined || user_name == "") {
+            //弹出登陆窗口
+            var html_login_img = "<div class='jmw_log_div1'><img class='jmw_log_img1' src='/templates/images/登陆.png'/></div>";
+            var html_user_name = "<div class='jmw_log_div2'><span class='jmw_log_div2_sp1'>手机号</span><span><input class='jmw_log_div2_text' id='txt_mobile' type='text' placeholder='请输入手机号'/></span><span onclick='sendSMS(this)' class='sp_hqyzm'>获取验证码</span></div>";
+            var html_yzm = "<div class='jmw_log_div3'><span class='jmw_log_div3_sp1'>验证码</span><span><input class='jmw_log_div3_text' id='txt_code' type='text' placeholder='请输入验证码'/></span></div>";
+            var html_button = "<div><div onclick='login_ok(this)' id='btn_login' class='jmw_log_denglu'>登录</div></div>";
+            var html_div1 = "<div style='padding: 40px 40px 30px 40px;'>" + html_user_name + html_yzm + html_button + "</div>";
+            layer.open({
+                area: ['430px', '300px'],
+                title: "用户登陆",
+                type: 1
+                , content: html_div1
+                , anim: 'scale'
+                , style: 'position:fixed; top:0; left:0; width:100%; height:358px; padding:10px; border:none;box-sizing: border-box;'
+            });
+        } else {
+            if (avatar == "" || avatar == undefined) {
+                avatar = "/templates/images/头像.png";
+            }
+            if (nick_name == "" || nick_name == undefined) {
+                nick_name = "游客";
+            }
+            var location_css = "top:0;";
+            if ("1" == "2") {
+                location_css = "bottom:0";
+            }
+            var html_div1 = "<div class='jmw_pl_div1'><textarea class='jmw_pl_div1_text' id='txt_content' placeholder='输入您的评论'></textarea></div>";
+            var html_div2 = "<div style='padding:10px;position: relative;'><img onclick='edit_nick_name()' class='jmw_pl_div1_img1 img_head' src='" + avatar + "' /><span class='nick_name' onclick='edit_nick_name()' style='margin-left:10px;color:#666;position: absolute;margin-top: 5px;'>" + nick_name + "</span><div onclick='fabiao();btn_send(" + reply_id + ",this);' id='btn_fabiao' class='jmw_pl_div1_fabiao'>发表</div></div>";
+            layer.open({
+                area: ['450px', '288px'],
+                title:"您的评论",
+                type: 1
+                , content: html_div1 + html_div2
+                , anim: 'scale'
+                , style: 'position:fixed; ' + location_css + ' left:0; width:100%; height:128px; padding:10px 0; border:none;'
+            });
+        }
+    }
+
+    function fabiao() {
+        $("#txt_content").val($(".jmw_pl_div1_text").val());
+    }
+</script>
+<style type="text/css">
+    /*登陆框↓*/
+    .sp_hqyzm {
+        background: #666;
+        color: #ffffff;
+        border-radius: 4px;
+        text-align: center;
+        margin-top: -2px;
+        float: right;
+        font-size: 14px;
+        padding: 4px 8px;
+        cursor:pointer;
+    }
+
+    .jmw_log_img1 {
+        width: 100px;
+        height: 100px;
+        margin-top: 20px;
+    }
+
+    .jmw_log_div1 {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .jmw_log_div2 {
+        border-bottom: solid #e5e5e5 1px;
+        padding-bottom: 12px;
+    }
+
+    .jmw_log_div2_sp1 {
+        color: #666;
+        font-size: 16px;
+    }
+
+    .jmw_log_div2_text {
+        width: 120px;
+        color: #999;
+        border: 0px;
+        margin-left: 15px;
+        font-size: 16px;
+        border-bottom: solid #fff 4px;
+    }
+
+    .jmw_log_div3 {
+        border-bottom: solid #e5e5e5 1px;
+        padding-bottom: 12px;
+        margin-top: 30px;
+    }
+
+    .jmw_log_div3_text {
+        width: 100px;
+        color: #999;
+        border: 0px;
+        margin-left: 15px;
+        font-size: 16px;
+        border-bottom: solid #fff 4px;
+    }
+
+    .jmw_log_div3_sp1 {
+        color: #666;
+        font-size: 16px;
+    }
+
+    .jmw_log_denglu {
+        height: 40px;
+        color: #fff;
+        background-color: #5f9dec;
+        text-align: center;
+        line-height: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 28px;
+        font-size: 16px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    /*登陆框↑*/
+
+    /*评论输入框↓*/
+    .jmw_pl_div1 {
+        box-sizing: border-box;
+        padding: 10px 10px 8px 10px;
+        border-bottom: solid #e5e5e5 1px;
+    }
+
+    .jmw_pl_div1_text {
+        width: 100%;
+        height: 160px;
+        background-color: #eee;
+        box-sizing: border-box;
+        border: #eee;
+        color: #666;
+        padding: 5px;
+        resize: none;
+    }
+
+    .jmw_pl_div1_img1 {
+        width: 26px;
+        height: 26px;
+        border-radius: 50%;
+        border: 2px solid #5f9dec;
+    }
+
+    .jmw_pl_div1_fabiao {
+        float: right;
+        color: #fff;
+        background-color: #5f9dec;
+        padding: 4px 20px;
+        font-size: 14px;
+        border-radius: 4px;
+        cursor:pointer;
+    }
+
+    /*评论输入框↑*/
+</style>
+
+
+<script src="/templates/js/reply.js" id="jmwReply" data-equi="pc"></script>
+<script type="text/javascript">
+    //修改昵称和头像
+    var temp_img_url = "";
+    function edit_nick_name() {
+        var img_url = $.cookie('avatar');
+        if (img_url != undefined && img_url != "") {
+            $(".img_head").attr("src", img_url);
+        } else {
+            img_url = "/templates/images/头像.png";
+        }
+
+        var nick_name = $.cookie('nick_name');
+        if (nick_name == undefined || nick_name == "") {
+            nick_name = "";
+        }
+        console.log(nick_name);
+        temp_img_url = img_url;
+
+        //页面层
+        var str11 = "<div><div><img src='" + img_url + "'onclick='select_head()' class='img_head' style='cursor:pointer;margin-top: 10px;border: 2px solid #5f9dec;border-radius: 50%;width: 60px;height: 60px;margin-left: auto;margin-right: auto;display: block;'></div><div style='text-align: center;color: #666;'>点击上传头像</div></div>";
+        var str22 = "<div style='text-align: center; margin-top: 20px;'><input type='text' id='txt_nick_name' value='" + nick_name + "' placeholder='输入昵称' style='border: 1px solid #aaeaff; height: 30px; width: 92px; text-align: center; color: #666;'></div>";
+        var str33 = "<div style='padding: 20px;'><span onclick='wancheng(this)' style='height: 30px; line-height: 30px; padding:  0 22px; font-size: 12px;background-color: #1E9FFF;color: #fff;border-radius: 2px;float: left;cursor:pointer;'>保存</span><span onclick='quxiao(this)' style='height: 30px; line-height: 30px; padding: 0 22px; font-size: 12px;background-color: #1E9FFF;color: #fff;border-radius: 2px;float: right;cursor:pointer;'>取消</span></div>";
+        layer.open({
+            title: "修改头像昵称",
+            area: ['340px', '255px'],
+            type: 1
+            , content: str11 + str22 + str33
+            , anim: 'up'
+            , style: 'position:fixed; bottom:0; left:0; width: 100%; height: 200px; padding:10px 0; border:none;'
+        });
+
+        $(".layui-m-layershade").click(function () {
+            $(".img_head").attr("src", temp_img_url);
+            $("#file_img").val("");
+        });
+    }
+
+    $(function () {
+        var nick_name = $.cookie('nick_name');
+        var avatar = $.cookie('avatar');
+        if (nick_name != "" && nick_name != undefined) {
+            $(".nick_name").text(nick_name);
+            $(".ask_askhelp_btn").css("display", "block");
+        }
+        if (avatar != "" && avatar != undefined) {
+            $(".img_head").attr("src", avatar);
+        }
+
+    });
+
+    function click_login() {
+        var user_name = $.cookie('user_name');
+
+        if (user_name == undefined || user_name == "") {
+            MessageShow(0);
+        } else {
+            edit_nick_name();
+        }
+
+
+        
+    }
+</script>
+
+<input type="file" name="" id="file_img" style="display:none;">
+
+    <!--/网友评论-->
+    <script type="text/javascript">
+        $(function () {
+            replyLoad();
+        });
+
+        function replyLoad() {
+            var reply_cookie = $.cookie(JmwInitJson.reply_list);
+            if (reply_cookie != undefined && reply_cookie != "") {
+                var reply_list = JSON.parse(reply_cookie);
+                if (reply_list.length > 0) {
+                    for (var i = 0; i < reply_list.length; i++) {
+                        var reply_id = reply_list[i].reply_id;
+                        var avatar = $.cookie('avatar');
+                        var nick_name = $.cookie('nick_name');
+                        var content = reply_list[i].content;
+                        if (reply_id == "0") {
+                            var hf_id = reply_list[i].id;
+                            var is_after = true;//判断是否已有的回复
+                            $(".jmw_hf").each(function () {
+                                if (hf_id == $(this).attr("data-hf")) {
+                                    is_after = false;
+                                }
+                            });
+                            if (is_after) {
+                                var html_hf = '<div class="mod_discuss clearfix jmw_hf" data-hf="' + hf_id + '"><a href="javascript:;" class="zan_left jmw_zan" data-hf="' + hf_id + '">0</a><div class="discmain">';
+                                html_hf = html_hf + '<div class="uname"><img src="' + avatar + '" class="userpic"/><a>' + nick_name + '</a></div>';
+                                html_hf = html_hf + '<div class="intro" id="imge0">' + content + '</div><div class="distool clearfix"><div class="disleft">';
+                                html_hf = html_hf + '<a href="javascript:void(0);" class="taolun"><span style="font-size:14px;">讨论</span></a>刚刚</div><div class="disright"></div></div>';
+                                html_hf = html_hf + '</div></div>';
+                                
+                                $(".jmw_hf:last").after(html_hf);
+                            }
+                        } else {
+                            $(".jmw_hf").each(function () {
+                                var tl_id = reply_list[i].id;
+                                var hf_id = $(this).attr("data-hf");
+                                if (hf_id == reply_id) {
+                                    var is_after = true;//判断是否已有的讨论
+                                    $(this).find(".jmw_tl").each(function () {
+                                        if (tl_id == $(this).attr("data-tl")) {
+                                            is_after = false;
+                                        }
+                                    });
+                                    if (is_after) {
+                                        var html_tl = '<div class="tbox jmw_tl" data-tl="' + tl_id + '"><div class="icon"></div><ul class="disclist"><li class="clearfix">';
+                                        html_tl = html_tl + '<img src="' + avatar + '" class="imgbox"><div class="text"><h3><a class="">' + nick_name + '</a></h3>';
+                                        html_tl = html_tl + '<div>' + content + '</div><div class="t">刚刚</div></div><div class="tmenu"></div></li></ul>';
+                                        html_tl = html_tl + '<div class="addiscuss"></div></div>';
+                                        
+                                        if ($(this).find(".jmw_tl").length > 0) {
+                                            $(this).find(".jmw_tl:last").after(html_tl);
+                                        } else {
+                                            $(this).find(".distool").after(html_tl);
+                                        }
+                                    }
+                                }
+                            });
+                        }
+                    }
+                }
+            }
+        }
+</script>
+<script src="/templates/js/layer_pc/layer.js"></script>
+<script src="/templates/js/clipboard.min.js"></script>
+
+
+
+
+<!--方式五：点击微信弹出微信二维码【只能在电脑端用】-->
+<script type="text/javascript">
+    $(function () {
+        $(".wx_qr_code").click(function () {
+            layer.open({
+                type: 1,
+                skin: 'layui-layer-demo',
+                closeBtn: 1,
+                title: ["打开微信扫一扫添加“" + kefu_data.xingming+"”微信","background: linear-gradient(to right, #0073b6, rgb(20, 159, 255));color: rgb(255, 255, 255);"],
+                btn: ['关闭'],
+                anim: 2,
+                shadeClose: true,
+                content: '<img src="' + kefu_data.weixintu + '" style="max-width: 300px;" />'
+            });
+            JmwTrack();
+        });
+    });
+    
+    $(document).ready(function () {
+        $(window).scroll(function () {
+            $(".wx_qr_code").each(function () {
+                var a = $(this).offset().top;
+                var _tips = $(".layui-layer-tips");
+                if (a >= $(window).scrollTop() && a < ($(window).scrollTop() + $(window).height())) {
+                    if (_tips.length == 0) {
+                        layer.tips('点这里可查看微信二维码', this, {
+                            tips: [1, '#3595CC'],
+                            time: 4000
+                        });
+                    }
+                }
+            });
+        });
+    });
+    
+</script>
+<!--方式五：点击微信弹出微信二维码【只能在电脑端用】-->
+
+<script src="/templates/js/jquery.lazyload.min.js"></script>
+<script type="text/javascript">
+
+    document.addEventListener('copy', function (event) {
+
+        if (str_copy != "") {
+            if (str_copy.indexOf(kefu_data.shouji) > -1 || str_copy.indexOf(kefu_data.weixinhao) > -1) {
+                JmwTrack();
+            }
+        }
+        
+    });
+
+    $(function () {
+        JmwInitJson.mobile_pc = "pc";
+    });
+</script>
+<textarea id="wx_copy" style="visibility: visible; border: 0px; color: #FFFFFF; opacity: 0; position: fixed;">15572439313</textarea>
+
+
+<!--获取IP引用的JS↓-->
+
+<script type="text/javascript" src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
+
+<!--获取IP引用的JS↑-->
+<script type="text/javascript">
+    function customJs()
+    {
+        try {
+            
+        } catch (e) {
+
+        }
+    }
+</script>
+<script src="/templates/js/jmw.js"></script>
+<!--UC恶意添加外链-->
+<script>function CaoNiMaDeUc() { $("a").each(function (index, element) { try { var thishref = $(this).attr("href"); var thisText = $(this).html(); if (thishref.indexOf("uc.cn") >= 0) { $(this).replaceWith(thisText) } } catch (e) { } }); $("script").each(function (index, element) { try { var thissrc = $(this).attr("src"); if (thissrc.indexOf("ucbrowser") >= 0) { $(this).remove() } } catch (e) { } }) } $(function () { var pageDATA_ua = window.navigator.userAgent.toLowerCase(); if (pageDATA_ua.indexOf('ucbrowser') >= 0) { setInterval("CaoNiMaDeUc();", 1000) } })</script>
+
+
+    <div style="display:none;">
+        <!--统计代码-->
+        
+        <!--统计代码-->
+    </div>
+
+</body>
+</html>
